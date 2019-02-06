@@ -1,5 +1,5 @@
 ---
-title: GitHub Pages Test
+title: "GitHub Pages Test"
 date: 2019-02-06
 ---
 This blog is used as a test for the GitHub Pages course.
