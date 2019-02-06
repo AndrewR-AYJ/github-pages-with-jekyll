@@ -1,3 +1,4 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+This blog will act as my method of handing in work in my computer science class.
+It will **also** simply act as one of my workplaces for assignments.
